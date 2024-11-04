@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ahtasamul Haque's Resume</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+        }
+        h1, h2, h3 {
+            color: #333;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Ahtasamul Haque</h1>
+    <p>Khorad, [Your Contact Number]</p>
+    <p>[Your Email Address]</p>
+    <p>[LinkedIn Profile or Other Relevant Link]</p>
+
+    <div class="section">
+        <h2>Objective</h2>
+        <p>Dedicated and motivated individual seeking opportunities to leverage my educational background and skills in [desired field/position].</p>
+    </div>
+
+    <div class="section">
+        <h2>Education</h2>
+        <h3>Gyan Sthali Public School, Godda</h3>
+        <p>[Years Attended]</p>
+        <p>Completed [specific grades or any notable achievements].</p>
+        
+        <h3>Mount Angle Public School</h3>
+        <p>[Years Attended] (Up to 3rd Grade)</p>
+        <p>[Any relevant achievements or extracurricular activities].</p>
+    </div>
+
+    <div class="section">
+        <h2>Skills</h2>
+        <ul>
+            <li>[Skill 1]</li>
+            <li>[Skill 2]</li>
+            <li>[Skill 3]</li>
+            <li>[Skill 4]</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>Experience</h2>
+        <h3>[Job Title or Volunteer Role]</h3>
+        <p>[Organization Name, Location]</p>
+        <p>[Dates of Employment/Volunteering]</p>
+        <ul>
+            <li>[Responsibility or achievement 1]</li>
+            <li>[Responsibility or achievement 2]</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>Activities</h2>
+        <ul>
+            <li>[Any clubs, sports, or organizations you were involved in]</li>
+            <li>[Any relevant certifications or courses]</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>References</h2>
+        <p>Available upon request.</p>
+    </div>
+
+</body>
+</html>
